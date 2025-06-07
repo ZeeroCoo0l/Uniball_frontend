@@ -2,7 +2,7 @@
 
 UniBall is a mobile application designed for university football players and coaches to organize training sessions, manage team communication, and track player engagement. This repository contains the Flutter frontend that provides an intuitive mobile interface for the UniBall platform.
 
-_Coupled with [backend](https://github.com/ZeeroCoo0l/Uniball_backend)_
+_Coupled with [Uniball_backend](https://github.com/ZeeroCoo0l/Uniball_backend)_
 
 ## 📱 Project Overview
 
