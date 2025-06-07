@@ -86,6 +86,7 @@ The app communicates with a Spring Boot backend. Ensure:
 1. **Supabase Project**: Create a project at supabase.com
 2. **Google OAuth**: Configure Google Sign-In in Supabase dashboard
 3. **Client ID**: Add your Supabase client ID to `google_login_service.dart`
+4. **URL and Anon Key for Supabase**: Add the credentials in the `main.dart`.
 
 ## 📱 User Interface
 
